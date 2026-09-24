@@ -1,0 +1,26 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Banco local
+*.duckdb
+*.duckdb.wal
+
+# Dados brutos
+dados/brutos/*.csv
+dados/brutos/*.zip
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
