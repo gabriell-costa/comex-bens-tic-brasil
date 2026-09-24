@@ -1,4 +1,4 @@
-# Dependência tecnológica brasileira no comércio exterior
+# Análise das relações comerciais brasileiras para bens de TIC
 
 Análise das importações e exportações brasileiras de bens de Tecnologia da Informação e Comunicação (TIC) entre 2010 e 2025, com foco na composição tecnológica do comércio, saldo comercial, principais países fornecedores e produtos com maior déficit.
 
